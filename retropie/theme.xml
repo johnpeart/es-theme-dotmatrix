@@ -1,0 +1,18 @@
+<theme>
+	
+	<formatVersion>6</formatVersion>
+	<include>./../retroflag-gpi.xml</include>
+	
+	<view name="system, basic, detailed">
+
+		<!-- image name="logo">
+			<path>./system.svg</path>
+		</image -->
+		
+		<text name="logoText">
+			<text>Settings</text>
+		</text>
+
+	</view>
+	
+</theme>

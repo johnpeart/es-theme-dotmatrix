@@ -1,0 +1,30 @@
+<theme>
+	
+	<formatVersion>6</formatVersion>
+	<include>./../retroflag-gpi.xml</include>
+	
+	<view name="system">
+
+		<!-- image name="logo">
+			<path>./system.svg</path>
+		</image -->	
+		
+		<text name="logoText">
+			<text>Super Nintendo Entertainment System</text>
+		</text>
+		
+	</view>
+	
+	<view name="basic, detailed">
+
+		<!-- image name="logo">
+			<path>./system.svg</path>
+		</image -->	
+		
+		<text name="logoText">
+			<text>SNES</text>
+		</text>
+		
+	</view>
+	
+</theme>

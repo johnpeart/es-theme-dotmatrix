@@ -1,0 +1,187 @@
+<!--
+theme name:		Retroflag GPi
+version:		1.0
+author:			John Peart
+email:			code@johnpe.art
+website:		www.johnpe.art
+license:		creative commons CC-BY-NC-SA
+-->
+
+<theme>
+
+	<formatVersion>6</formatVersion>
+	<resolution>320 240</resolution>
+
+	<view name="system, basic, detailed">
+
+		<image name="background" extra="true">
+			<path>./_inc/images/bg.png</path>
+			<origin>0 0</origin>
+			<pos>0 0</pos>
+			<size>1 1</size>
+		</image>
+
+		<image name="background_help" extra="true">
+			<path>./_inc/images/bg-dark.png</path>
+			<origin>0 1</origin>
+			<pos>0 1</pos>
+			<size>1 0.075</size>
+		</image>
+
+		<helpsystem name="help">
+			<textColor>A7B72D</textColor>
+			<iconColor>A7B72D</iconColor>
+			<fontPath>./_inc/fonts/gamegirl-classic.ttf</fontPath>
+			<fontSize>0.025</fontSize>
+		</helpsystem>
+
+	</view>
+	
+	<view name="system">
+	
+		<helpsystem name="help">
+			<textColor>A7B72D</textColor>
+			<iconColor>A7B72D</iconColor>
+			<fontPath>./_inc/fonts/gamegirl-classic.ttf</fontPath>
+			<fontSize>0.025</fontSize>			
+		</helpsystem>
+		
+		<image name="basic-border" extra="true">
+			<path>./_inc/images/system-header.png</path>
+			<origin>0 0</origin>
+			<pos>0 0</pos>
+			<size>1 0.1666666667</size>
+		</image>
+		
+		<text name="system-header" extra="true">
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.085</pos>
+			<size>1 0.1666666667</size>
+			<color>A7B72D</color>
+			<fontPath>./_inc/fonts/gamegirl-classic.ttf</fontPath>
+			<fontSize>0.0625</fontSize>
+			<alignment>center</alignment>
+			<text>System select</text>
+		</text>
+		
+		<carousel name="systemcarousel">
+			<type>vertical</type>
+			<origin>0 0</origin>
+			<pos>-0.075 0.16</pos>
+			<size>1 0.69</size>
+			<logoScale>1</logoScale>
+			<logoSize>1 0.2</logoSize>
+			<logoAlignment>left</logoAlignment>
+			<maxLogoCount>5</maxLogoCount>
+			<color>A7B72D</color>
+		</carousel>
+		
+		<text name="logoText">
+			<pos>0 0</pos>
+			<origin>0.5 0.5</origin>
+			<color>242803</color>
+			<fontPath>./_inc/fonts/gamegirl-classic.ttf</fontPath>
+			<fontSize>0.05</fontSize>
+			<lineSpacing>1.25</lineSpacing>
+		</text>
+		
+		<text name="systemInfo">
+			<pos>0 0.925</pos>
+			<size>1 0.075</size>
+			<origin>0 1</origin>
+			<color>A7B72D</color>
+			<backgroundColor>242803</backgroundColor>
+			<fontPath>./_inc/fonts/gamegirl-classic.ttf</fontPath>
+			<fontSize>0.05</fontSize>
+			<alignment>center</alignment>
+		</text>
+	
+	</view>
+
+	<view name="basic">
+		
+		<image name="basic-border" extra="true">
+			<path>./_inc/images/basic-border.png</path>
+			<origin>0 0</origin>
+			<pos>0 0</pos>
+			<size>1 1</size>
+		</image>
+		
+		<text name="logoText">
+			<pos>0.5 0.075</pos>
+			<origin>0.5 0.5</origin>
+			<size>0.775 0.075</size>
+			<fontSize>0.0625</fontSize>
+			<fontPath>./_inc/fonts/gamegirl-classic.ttf</fontPath>
+			<color>242803</color>
+			<backgroundColor>A7B72D</backgroundColor>
+			<alignment>center</alignment>
+		</text>
+
+		<textlist name="gamelist">
+			<selectorColor>242803</selectorColor>
+			<selectedColor>A7B72D</selectedColor>
+			<primaryColor>242803</primaryColor>
+			<secondaryColor>242803</secondaryColor>
+			<fontPath>./_inc/fonts/gamegirl-classic.ttf</fontPath>
+			<pos>0.05 0.15</pos>
+			<origin>0 0</origin>
+			<size>0.9 0.7</size>
+			<fontSize>0.05</fontSize>
+			<alignment>left</alignment>
+		</textlist>
+
+	</view>
+
+	<view name="detailed">
+		
+		<image name="detailed-border" extra="true">
+			<path>./_inc/images/detailed-border.png</path>
+			<origin>0 0</origin>
+			<pos>0 0</pos>
+			<size>1 1</size>
+		</image>
+		
+		<text name="logoText">
+			<pos>0.3125 0.0625</pos>
+			<origin>0.5 0.5</origin>
+			<size>0.4 0.05</size>
+			<fontSize>0.05</fontSize>
+			<fontPath>./_inc/fonts/gamegirl-classic.ttf</fontPath>
+			<color>242803</color>
+			<backgroundColor>A7B72D</backgroundColor>
+			<alignment>center</alignment>
+		</text>
+	
+		<textlist name="gamelist">
+			<selectorColor>242803</selectorColor>
+			<selectedColor>A7B72D</selectedColor>
+			<primaryColor>242803</primaryColor>
+			<secondaryColor>242803</secondaryColor>
+			<fontPath>./_inc/fonts/gamegirl-classic.ttf</fontPath>
+			<pos>0.05 0.15</pos>
+			<size>0.5 0.675</size>
+			<fontSize>0.05</fontSize>
+			<horizontalMargin>0.025</horizontalMargin>
+		</textlist>
+
+		<image name="md_image">
+			<origin>0.5 0.5</origin>
+			<pos>0.7875 0.23</pos>
+			<maxSize>0.3 0.3</maxSize>
+		</image>
+
+		<text name="md_description">
+			<pos>0.6 0.425</pos>
+			<size>0.375 0.475</size>
+			<color>242803</color>
+			<fontPath>./_inc/fonts/gamegirl-classic.ttf</fontPath>
+			<fontSize>0.025</fontSize>
+			<alignment>left</alignment>
+			<forceUppercase>0</forceUppercase>
+			<lineSpacing>1.5</lineSpacing>
+		</text>
+
+	</view>
+
+</theme>

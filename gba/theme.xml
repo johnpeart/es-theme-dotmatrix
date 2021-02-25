@@ -1,0 +1,42 @@
+<theme>
+	
+	<formatVersion>6</formatVersion>
+	<include>./../retroflag-gpi.xml</include>
+	
+	<view name="system">
+
+		<!-- image name="logo">
+			<path>./system.svg</path>
+		</image -->	
+		
+		<text name="logoText">
+			<text>Game Boy Advance</text>
+		</text>
+		
+	</view>
+	
+	<view name="basic">
+
+		<!-- image name="logo">
+			<path>./system.svg</path>
+		</image -->	
+		
+		<text name="logoText">
+			<text>Game Boy Advance</text>
+		</text>
+		
+	</view>
+	
+	<view name="detailed">
+
+		<!-- image name="logo">
+			<path>./system.svg</path>
+		</image -->	
+		
+		<text name="logoText">
+			<text>GBA</text>
+		</text>
+		
+	</view>
+	
+</theme>
