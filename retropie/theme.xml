@@ -1,7 +1,7 @@
 <theme>
 	
 	<formatVersion>6</formatVersion>
-	<include>./../retroflag-gpi.xml</include>
+	<include>./../dotmatrix.xml</include>
 	
 	<view name="system, basic, detailed">
 
