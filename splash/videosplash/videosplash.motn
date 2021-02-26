@@ -1651,7 +1651,7 @@
 
 	<footage name="Media Layer" id="10816">
 		<clip name="coinsfx" id="10886">
-			<pathURL>file:///Users/johnpeart/Sites/pi/es-theme-retroflag-gpi/splash/videosplash/Media/coinsfx.mp3</pathURL>
+			<pathURL>file:///Users/johnpeart/Sites/pi/es-theme-dotmatrix/splash/videosplash/Media/coinsfx.mp3</pathURL>
 			<relativeURL>Media/coinsfx.mp3</relativeURL>
 			<missingWidth>0</missingWidth>
 			<missingHeight>0</missingHeight>
@@ -1693,7 +1693,7 @@
 			</parameter>
 		</clip>
 		<clip name="loading-4x3-video--ellipsis-3" id="10845">
-			<pathURL>file:///Users/johnpeart/Sites/pi/es-theme-retroflag-gpi/splash/videosplash/Media/loading-4x3-video--ellipsis-3.png</pathURL>
+			<pathURL>file:///Users/johnpeart/Sites/pi/es-theme-dotmatrix/splash/videosplash/Media/loading-4x3-video--ellipsis-3.png</pathURL>
 			<relativeURL>Media/loading-4x3-video--ellipsis-3.png</relativeURL>
 			<missingWidth>14</missingWidth>
 			<missingHeight>3</missingHeight>
@@ -1724,7 +1724,7 @@
 			</parameter>
 		</clip>
 		<clip name="loading-4x3-video--elipsis-2" id="10843">
-			<pathURL>file:///Users/johnpeart/Sites/pi/es-theme-retroflag-gpi/splash/videosplash/Media/loading-4x3-video--elipsis-2.png</pathURL>
+			<pathURL>file:///Users/johnpeart/Sites/pi/es-theme-dotmatrix/splash/videosplash/Media/loading-4x3-video--elipsis-2.png</pathURL>
 			<relativeURL>Media/loading-4x3-video--elipsis-2.png</relativeURL>
 			<missingWidth>14</missingWidth>
 			<missingHeight>3</missingHeight>
@@ -1755,7 +1755,7 @@
 			</parameter>
 		</clip>
 		<clip name="loading-4x3-video--elipsis-1" id="10840">
-			<pathURL>file:///Users/johnpeart/Sites/pi/es-theme-retroflag-gpi/splash/videosplash/Media/loading-4x3-video--elipsis-1.png</pathURL>
+			<pathURL>file:///Users/johnpeart/Sites/pi/es-theme-dotmatrix/splash/videosplash/Media/loading-4x3-video--elipsis-1.png</pathURL>
 			<relativeURL>Media/loading-4x3-video--elipsis-1.png</relativeURL>
 			<missingWidth>14</missingWidth>
 			<missingHeight>3</missingHeight>
@@ -1786,7 +1786,7 @@
 			</parameter>
 		</clip>
 		<clip name="loading-4x3-video--raspberry-pi" id="10824">
-			<pathURL>file:///Users/johnpeart/Sites/pi/es-theme-retroflag-gpi/splash/videosplash/Media/loading-4x3-video--raspberry-pi.png</pathURL>
+			<pathURL>file:///Users/johnpeart/Sites/pi/es-theme-dotmatrix/splash/videosplash/Media/loading-4x3-video--raspberry-pi.png</pathURL>
 			<relativeURL>Media/loading-4x3-video--raspberry-pi.png</relativeURL>
 			<missingWidth>245</missingWidth>
 			<missingHeight>18</missingHeight>
@@ -1817,7 +1817,7 @@
 			</parameter>
 		</clip>
 		<clip name="loading-4x3-video--loading" id="10822">
-			<pathURL>file:///Users/johnpeart/Sites/pi/es-theme-retroflag-gpi/splash/videosplash/Media/loading-4x3-video--loading.png</pathURL>
+			<pathURL>file:///Users/johnpeart/Sites/pi/es-theme-dotmatrix/splash/videosplash/Media/loading-4x3-video--loading.png</pathURL>
 			<relativeURL>Media/loading-4x3-video--loading.png</relativeURL>
 			<missingWidth>99</missingWidth>
 			<missingHeight>12</missingHeight>
