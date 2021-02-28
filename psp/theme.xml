@@ -1,0 +1,30 @@
+<theme>
+	
+	<formatVersion>6</formatVersion>
+	<include>./../dotmatrix.xml</include>
+	
+	<view name="system">
+
+		<!-- image name="logo">
+			<path>./system.svg</path>
+		</image -->	
+		
+		<text name="logoText">
+			<text>Playstation Portable</text>
+		</text>
+		
+	</view>
+	
+	<view name="basic, detailed">
+
+		<!-- image name="logo">
+			<path>./system.svg</path>
+		</image -->	
+		
+		<text name="logoText">
+			<text>PSP</text>
+		</text>
+		
+	</view>
+	
+</theme>
